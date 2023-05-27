@@ -9,6 +9,7 @@ Scenario: Data Driven With Parameter
 	And I enter my Username text "LWPLONDON"
 	And I enter my email text "lwplondon@demo.com"
 	And I enter my password text "PasswordSecure"
-	#And I added something else
+	And I added something else
+	And I added Akins branch
 	When I click on the Sign up button
 	Then I should be able to register successfully
