@@ -5783,11 +5783,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\balea\\source\\repos\\TestAutomationAprilCohort\\TestAutomationAprilCohort\\TestAutomationAprilCohort.csproj",
+      "projectUniqueName": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationApril\\TestAutomationAprilCohort\\TestAutomationAprilCohort.csproj",
       "projectName": "TestAutomationAprilCohort",
-      "projectPath": "C:\\Users\\balea\\source\\repos\\TestAutomationAprilCohort\\TestAutomationAprilCohort\\TestAutomationAprilCohort.csproj",
+      "projectPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationApril\\TestAutomationAprilCohort\\TestAutomationAprilCohort.csproj",
       "packagesPath": "C:\\Users\\balea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\balea\\source\\repos\\TestAutomationAprilCohort\\TestAutomationAprilCohort\\obj\\",
+      "outputPath": "C:\\Users\\balea\\source\\repos\\Repo\\TestAutomationApril\\TestAutomationAprilCohort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\balea\\AppData\\Roaming\\NuGet\\NuGet.Config",
